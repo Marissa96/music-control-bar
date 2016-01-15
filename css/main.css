@@ -84,7 +84,7 @@ body {
 .time-lapsed {
   font-size: .7rem;
   position: absolute;
-  top: 2rem;
+  top: 1.75rem;
   left: 4rem;
 }
 
@@ -106,8 +106,9 @@ body {
 
 .control-shuffle {
   position: absolute;
-  top: 0.5rem;
+  top: 0.25rem;
   left: 4rem;
+  font-size: 1.2rem;
 }
 
 .control-list {
@@ -118,7 +119,8 @@ body {
 
 .control-heart {
   position: absolute;
-  top: 0.25rem;
+  top: 0.3rem;
   right: 1.5rem;
+  font-size: 1.2rem;
 }
 }
